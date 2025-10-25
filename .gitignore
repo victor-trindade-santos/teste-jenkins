@@ -1,0 +1,12 @@
+# Ignora arquivos temporários e logs do Jenkins
+*.log
+*.tmp
+*.bak
+*.swp
+*.class
+target/
+build/
+workspace/
+.jenkins/
+*.bat~
+*.sh~
